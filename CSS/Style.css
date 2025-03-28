@@ -1,3 +1,12 @@
 body{
-    
+
+}
+.bg-color-01 {
+    background: linear-gradient(#7857ff, #2e2be9) !important; 
+}
+.bg-color-02 {
+    background: linear-gradient(#4e21ca, #2421ca) !important;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
 }
